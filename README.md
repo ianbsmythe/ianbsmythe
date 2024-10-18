@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ianbsmythe
+- 👋 Hi, I’m Ian
 - 👀 I’m interested in getting into coding and the tech industry as a whole.
 - 🌱 I’m currently learning with School of Code
 - 💞️ I’m looking to collaborate on projects to develop my coding and development skills
